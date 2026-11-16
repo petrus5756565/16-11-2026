@@ -1,0 +1,15 @@
+:root{
+  white-space: inherit;
+  background-color: rgb(139, 201, 181);
+
+}
+
+  .menu{
+    
+    width: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font;
+  }
+  
